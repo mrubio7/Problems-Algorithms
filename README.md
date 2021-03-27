@@ -1,6 +1,6 @@
 ## Running Sum of 1d Array (1480)
 
-![C](./Img/C.png) &nbsp; &nbsp; &nbsp; [![C#](./Img/Cs.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C%23/1480_RunningSumArray1D.cs)
+[![C](./Img/C.png)](Nothing to do here) &nbsp; &nbsp; &nbsp; [![C#](./Img/Cs.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C%23/1480_RunningSumArray1D.cs)
 
 
 Given an array ``nums``. We define a running sum of an array as ``runningSum[i] = sum(nums[0]…nums[i])``.
