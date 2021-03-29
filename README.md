@@ -5,7 +5,7 @@
 [![C#](./Img/Cs.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C%23/1480_RunningSumArray1D.cs)
 
 
-Given an array ``nums``. We define a running sum of an array as ``runningSum[i] = sum(nums[0]…nums[i])``.
+Given an array ``nums``. We define a running sum of an array as ``runningSum[i] = sum(nums[0]…nums[i])``.<br/>
 
 Return the running sum of ``nums``.
 
@@ -28,4 +28,3 @@ Letters are case sensitive, so ``"a"`` is considered a different type of stone f
 #### Example 1:
 ``Input: jewels = "aA", stones = "aAAbbbb"``<br/>
 ``Output: 3``<br/>
-
