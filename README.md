@@ -14,6 +14,7 @@ Return the running sum of ``nums``.
 ``Output: [1,3,6,10]``<br/>
 ``Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].``<br/>
 <br/>
+<br/>
 
 ## [2] Jewels and Stones (771)
 
@@ -28,3 +29,6 @@ Letters are case sensitive, so ``"a"`` is considered a different type of stone f
 #### Example 1:
 ``Input: jewels = "aA", stones = "aAAbbbb"``<br/>
 ``Output: 3``<br/>
+<br/>
+<br/>
+
