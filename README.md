@@ -18,7 +18,8 @@ Return the running sum of ``nums``.
 ## [2] Jewels and Stones (771)
 
 [![C](./Img/C.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C/771_JewelsAndStones.c)
-&nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp;
+[![C#](./Img/Cs.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C%23/771_JewelsAndStones.cs)
 
 You're given strings ``jewels`` representing the types of stones that are jewels, and ``stones`` representing the stones you have. Each character in ``stones`` is a type of stone you have. You want to know how many of the stones you have are also jewels.
 
