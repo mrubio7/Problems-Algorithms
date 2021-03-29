@@ -1,4 +1,4 @@
-## [1] Running Sum of 1d Array (1480)
+## [1] Running Sum of 1d Array (*LeetCode Nº* 1480)
 
 [![C](./Img/C.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C/1480_RunningSumArray1D.c)
 &nbsp; &nbsp; &nbsp; 
@@ -16,7 +16,7 @@ Return the running sum of ``nums``.
 <br/>
 <br/>
 
-## [2] Jewels and Stones (771)
+## [2] Jewels and Stones (*LeetCode Nº* 771)
 
 [![C](./Img/C.png)](https://github.com/mrubio7/Problems-Algorithms/blob/main/C/771_JewelsAndStones.c)
 &nbsp; &nbsp; &nbsp;
